@@ -1,8 +1,38 @@
   public class Main {
   public static void main(String [] args) {
   
-   //Name
-   String name = J
+   
+   String name = Jordyn's Resturant;
+
+   double drinkPr = 2.50;
+   double candyPr = 3.00;
+   double hotdogPr = 6.00;
+   double hamburgerPr = 6.00;
+
+   int orderNum = math.random() + 100
+
+   System.out.println("How many drinks would you like?");
+   int numDrink = input.nextInt();
+
+   System.out.println("How many hotdogs would you lie?");
+   int numHotdog = input.nextInt();
+
+   System.out.println("How many Hamburgers would you like?");
+   int numHamburger = input.nextInt();
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
 
      // RECEIPT PRINTOUT SECTION
      System.out.println("**************************************");
