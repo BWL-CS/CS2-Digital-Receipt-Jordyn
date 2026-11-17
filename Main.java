@@ -1,5 +1,9 @@
   public class Main {
   public static void main(String [] args) {
+  
+   //Name
+   String name = J
+
      // RECEIPT PRINTOUT SECTION
      System.out.println("**************************************");
      System.out.println("*                                    *");
