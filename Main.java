@@ -61,21 +61,21 @@
 
      // RECEIPT PRINTOUT SECTION
 
-     System.out.println("*******************************************************************************");
-     System.out.println("*                                                                             *");
-     System.out.println("*  " + highSchoolName + " Snack Bar                                           *");
-     System.out.println("*  Order Number " + orderNum +  "                                             *");
-     System.out.println("*                                                                             *");  
-     System.out.println("*  " + numDrink + " Drink......$" +  (numDrink * drinkPr) + "                 *");  
-     System.out.println("*  " + numCandy + " Candy......$" +  (numCandy * candyPr) + "                 *");  
-     System.out.println("*  " + numHotdog + " Hotdog......$" +  (numHotdog * hotdogPr) + "             *");  
-     System.out.println("*  " + numHamburger + " Hamburger......$" +  (numHamburger * hamburgerPr) + " *");  
-     System.out.println("*                                                                             *"); 
-     System.out.println("*     Subtotal....$" + subtotal + "                                           *");                  
-     System.out.println("*     Tax.........$" + totalTax + "                                           *");     
-     System.out.println("*     Total.......$" + total + "                                              *");         
-     System.out.println("*                                                                             *");    
-     System.out.println("*******************************************************************************");
+     System.out.println("****************************");
+     System.out.println("*                          *");
+     System.out.println("*  " + highSchoolName + " Snack Bar           *");
+     System.out.println("*  Order Number " + orderNum +  "         *");
+     System.out.println("*                          *");  
+     System.out.println("*  " + numDrink + " Drink......$" +  (numDrink * drinkPr) + "      *");  
+     System.out.println("*  " + numCandy + " Candy......$" +  (numCandy * candyPr) + "      *");  
+     System.out.println("*  " + numHotdog + " Hotdog......$" +  (numHotdog * hotdogPr) + "     *");  
+     System.out.println("*  " + numHamburger + " Hamburger......$" +  (numHamburger * hamburgerPr) + "  *");  
+     System.out.println("*                          *"); 
+     System.out.println("*     Subtotal....$" + subtotal + "    *");                  
+     System.out.println("*     Tax.........$" + totalTax + "    *");     
+     System.out.println("*     Total.......$" + total + "   *");         
+     System.out.println("*                          *");    
+     System.out.println("****************************");
 
      input.close();
     }
